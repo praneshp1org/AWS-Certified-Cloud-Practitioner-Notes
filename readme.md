@@ -2,10 +2,7 @@
 
 ![AWS Logo](https://aws.amazon.com/images/logos/aws_logo_smile.png)
 
-This repository contains my notes and resources for the AWS Certified Cloud Practitioner certification. These notes cover the essential concepts and topics you need to know to pass the AWS Certified Cloud Practitioner exam.
-
-## Table of Contents
-... (previous content)
+This repository contains my compilation of  notes and resources for the AWS Certified Cloud Practitioner certification. These notes cover the essential concepts and topics you need to know to pass the AWS Certified Cloud Practitioner exam.
 
 ## Study Resources
 
